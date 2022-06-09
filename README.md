@@ -20,7 +20,7 @@
 <br>
 <li>📫 How to reach me <a href="mailto:sm2450@it.jgec.ac.in">sm2450@it.jgec.ac.in</a></li>
 </ul>
-<img style=" max-width:500px; width:400px;"src="coding.gif" />
+<img  width="400px" src="coding.gif" />
 </div>
 <br>
 <hr>
