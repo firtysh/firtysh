@@ -4,7 +4,6 @@
 </div >
 <div style="margin:20px 0">
 <img src="https://komarev.com/ghpvc/?username=firtysh&label=Profile+Views&color=green&style=flat" alt="firtysh" /> 
-<img style="float:right;" src="https://badges.pufler.dev/REPOS/firtysh" alt="firtysh" />
 </div>
 <div style="display:flex;justify-content:space-around;align-items:center">
 <ul>
