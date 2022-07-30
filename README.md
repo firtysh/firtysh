@@ -59,7 +59,7 @@
 
 
 <div align="center">
-  <a href="https://open.spotify.com/user/1xqh9d85ptiurfd4wuzftevro">
+  <a href="https://open.spotify.com/user/31rcd3g6z3boati53yzmt5mettpq">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
