@@ -43,3 +43,6 @@
 <div style="margin:10px 0px"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=firtysh&theme=monokai" alt="firtysh" /></div>
 
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
