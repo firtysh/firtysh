@@ -53,15 +53,13 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=firtysh&show_icons=true&theme=radical" align="left" style="width: 100%" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=firtysh&theme=monokai" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31rcd3g6z3boati53yzmt5mettpq">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rcd3g6z3boati53yzmt5mettpq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" height="30%" />
 </div>
 
 <!--START_SECTION:waka-->
