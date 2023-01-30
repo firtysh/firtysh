@@ -53,7 +53,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=firtysh&theme=monokai" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=firtysh&show_icons=true&theme=radical" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
