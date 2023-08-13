@@ -4,6 +4,7 @@
 </div >
 <div style="margin:20px 0">
 <img src="https://komarev.com/ghpvc/?username=firtysh&label=Profile+Views&color=green&style=flat" alt="firtysh" /> 
+ [![wakatime](https://wakatime.com/badge/user/ed2063aa-478c-4505-8c9d-f0799d66c5c5.svg)](https://wakatime.com/@ed2063aa-478c-4505-8c9d-f0799d66c5c5)
 </div>
 <div style="display:flex;justify-content:space-around;align-items:center">
 <ul>
